@@ -1,0 +1,50 @@
+{ //É uma massa de teste estática não é mais usada
+   "singup" : {
+    "name": "Vinicius Mascarenhas",
+    "cpf": "11122233344",
+    "email": "johndoe@email.com",
+    "whatsapp": "7199999999",
+    "address": {
+        "postalcode": "41345566",
+        "street": "Rua Doutor Alfredo Ramalho",
+        "number": "24",
+        "details": "N/A",
+        "district": "Fazenda Grande IV",
+        "city_state": "Salvador/BA"
+    },
+    "delivery_method": "Moto",
+    "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv" : {
+        "name": "Vinicius Mascarenhas",
+        "cpf": "111222333AA",
+        "email": "johndoe2@email.com",
+        "whatsapp": "7199999999",
+        "address": {
+            "postalcode": "41345566",
+            "street": "Rua Doutor Alfredo Ramalho",
+            "number": "24",
+            "details": "N/A",
+            "district": "Fazenda Grande IV",
+            "city_state": "Salvador/BA"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv" : {
+        "name": "Vinicius Mascarenhas",
+        "cpf": "11122233344",
+        "email": "johndoe.com.br",
+        "whatsapp": "7199999999",
+        "address": {
+            "postalcode": "41345566",
+            "street": "Rua Doutor Alfredo Ramalho",
+            "number": "24",
+            "details": "N/A",
+            "district": "Fazenda Grande IV",
+            "city_state": "Salvador/BA"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+        }
+}
