@@ -76,7 +76,7 @@ describe('Singup', () => {
             signup.go();
             signup.submit();
         });
-        //forEach feito para percorrer o array 'messages' feito anteriormente, dessa forma é feita a passagem mensagem por mensagem. A variável 'msg' é criada somente para passar o paramento esperado que são as mensagens anteriores do array
+        //forEach feito para percorrer o array 'messages' feito anteriormente, dessa forma é feita a passagem mensagem por mensagem. A variável 'msg' é criada somente para passar o paramentro esperado que são as mensagens anteriores do array
         messages.forEach(function(msg){
             //esse ponto faz uma concatenação, passando mensagem
             it(`${msg.field} is required`, function() {
