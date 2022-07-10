@@ -20,7 +20,6 @@ jobs:
           wait-on: ${{ secrets.BASE_URL }}
           wait-on-timeout: 120
           browser: chrome
-          record: true
           group: 'UI - Chrome'
           spec: cypress/integration/*
         env:
